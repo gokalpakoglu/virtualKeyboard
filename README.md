@@ -1,7 +1,7 @@
 # virtualKeyboard
  Virtual Keyboard with OpenCV library
   
-#Required installations
+##Required installations
 
 **Demo**
 
