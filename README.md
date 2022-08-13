@@ -3,6 +3,7 @@
   
 ## Required installations
 pip install opencv-python
+
 pip install mediapipe
 
 ### **Demo**
